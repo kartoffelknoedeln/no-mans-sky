@@ -1,1 +1,11 @@
-# no-mans-sky
+# No Man's Sky.
+- Steam review bot
+  - Uses a Python library to mine <i>No Man's Sky</i>'s review data.
+  - The data taken can be both English and non-English.
+- Analytics
+  - Data is parsed as a data frame through pandas.
+  - Breakdown by the categories relating to reviews, ratings, upvotes, and playing time.
+- Machine learning
+  - Review data fed to an ML-algorithm to generate reviews.
+- Visualisation
+  - ML-data will be used as a Tableau storyboard.
