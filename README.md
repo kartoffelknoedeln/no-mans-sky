@@ -5,7 +5,7 @@
 - Analytics
   - Data is parsed as a data frame through pandas.
   - Breakdown by the categories relating to reviews, ratings, upvotes, and playing time.
-- Machine learning
-  - Review data fed to an ML-algorithm to generate reviews.
+- Natural language processing
+  - Review data fed to an algorithm to summarise reviews.
 - Visualisation
-  - ML-data will be used as a Tableau storyboard.
+  - NLP-data will be used to build a Tableau storyboard.
